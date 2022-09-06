@@ -8,5 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a Ph.D. student in the [Department of Computer Engineering](http://ce.sharif.edu/), Sharif University of Technology, Tehran, Iran. My supervisor is  [Dr. Gholamreza Ghassem-Sani](http://sharif.edu/~sani/), and My advisor is [Dr. Seyed Abolghasem Mirroshandel](https://nlp.guilan.ac.ir/mirroshandel/).
+ My Thesis focuses on robustness in the text domain, especially on Question Answering (QA) systems. 
+I'm interested in the interplay between text and image, such as Visual question answering systems, caption generation, etc. 
+ I'm also interested in applying machine learning and deep learning methods to medical data, such as Biomedical Question answering. 
+Currently, I'm participating in another project about sperm abnormality detection using human sperm images.
+My research interests include machine learning,  Deep Learning, and natural language processing. You can find more information at [Publication](https://boreshban.github.io/publications/) and [CV](https://boreshban.github.io/cv/). 
 
