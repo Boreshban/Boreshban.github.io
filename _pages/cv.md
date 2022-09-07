@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in CE-Software, Shahid Rajaee Teacher Training University,Tehran, Iran, 2009-2013
-* M.S. in CE-Software, Guilan university, Rasht, Iran, 2013-2016
-* Ph.D in CE-Artificial Intelligencee, Sharif University of Technology, Tehran, Iran, 2018-present
+* B.S. in CE-Software, <b> Shahid Rajaee Teacher Training University </b>,Tehran, Iran, 2009-2013
+* M.S. in CE-Software, <b> Guilan university </b>, Rasht, Iran, 2013-2016
+* Ph.D in CE-Artificial Intelligencee,<b> Sharif University of Technology </b>, Tehran, Iran, 2018-present
 
 Work experience
 ======
 *2018-present: Research Assistant
-  * NLP Research Group, Sharif University of Technology
+  * NLP Research Group,<b> Sharif University of Technology </b>
+*2013-2018: Research Assistant
+  * NLP Research Group,<b> University of Guilany </b>
+
+You can find my CV [here](http://Boreshban.github.io/files/BoreshbanCV.pdf).
   
-* 2013-2018: Research Assistant
-  * NLP Research Group, University of Guilan
+  
 
