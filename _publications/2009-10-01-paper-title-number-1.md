@@ -15,14 +15,11 @@ redirect_from:
 
 
 
-<br />
-<h1>In progress projects</h1>
+<b>Boreshban, Y</b>, Mirbostani, S. M, Ghassem-Sani, G,  Mirroshandel, S. A, Ahmadi, S. F, Shojaee, G, Kamani, A, Monsef, T, <b>	QAttack: A Framework for Adversarial Attack on Question Answering systems</b> (In progress)
 
-<b>Boreshban, Y</b>, Mirbostani, S. M, Ghassem-Sani, G,  Mirroshandel, S. A, Ahmadi, S. F, Shojaee, G, Kamani, A, Monsef, T, <b>	QAttack: A Framework for Adversarial Attack on Question Answering systems</b>
+ Nabipour, A, Shams, M, <b>Boreshban, Y</b>, Mirroshandel, S. A <b>	Improving Sperm abnormality detection using Anomaly detection approaches.</b> (In progress)
 
- Nabipour, A, Shams, M, <b>Boreshban, Y</b>, Mirroshandel, S. A <b>	Improving Sperm abnormality detection using Anomaly detection approaches.</b>
-
- <b>Boreshban, Y</b>, Ahmadi, S. F, Shojaee, G, Ghassem-Sani, G,  Mirroshandel, S. A, <b>	A novel adversarial attack using evolutionary algorithms on the Question Answering System.</b>
+ <b>Boreshban, Y</b>, Ahmadi, S. F, Shojaee, G, Ghassem-Sani, G,  Mirroshandel, S. A, <b>	A novel adversarial attack using evolutionary algorithms on the Question Answering System.</b> (In progress)
  
- <b>Boreshban, Y</b>, Keshavarzi, S. M. S, G, Ghassem-Sani, G,  Mirroshandel, S. A, <b>	Improving Biomedical Question Answering systems using Meta-Learning Approaches.</b>
+ <b>Boreshban, Y</b>, Keshavarzi, S. M. S, G, Ghassem-Sani, G,  Mirroshandel, S. A, <b>	Improving Biomedical Question Answering systems using Meta-Learning Approaches.</b> (In progress)
 
