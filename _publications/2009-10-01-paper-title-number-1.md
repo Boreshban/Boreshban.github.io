@@ -25,5 +25,5 @@ redirect_from:
 
  <b>Boreshban, Y</b>, Ahmadi, S. F, Shojaee, G, Ghassem-Sani, G,  Mirroshandel, S. A, <b>	A novel adversarial attack using evolutionary algorithms on the Question Answering System.</b>
  
- <b>Boreshban, Y</b>, Keshavarzi, S. M. S, G, Ghassem-Sani, G,  Mirroshandel, S. A, <b>	3)	Improving Biomedical Question Answering systems using Meta-Learning Approaches.</b>
+ <b>Boreshban, Y</b>, Keshavarzi, S. M. S, G, Ghassem-Sani, G,  Mirroshandel, S. A, <b>	Improving Biomedical Question Answering systems using Meta-Learning Approaches.</b>
 
