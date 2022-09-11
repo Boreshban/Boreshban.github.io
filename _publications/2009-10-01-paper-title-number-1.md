@@ -10,7 +10,7 @@ redirect_from:
 
 <b>Boreshban, Y</b>, Yousefinasab, H, Mirroshandel, S. A,<b> Providing a religious corpus of Question Answering System in Persian</b>, <i>Journal of Signal and Data Processing</i>, 2018. 
 
-<b>Boreshban, Y</b>, Mirroshandel, S. A,<b> A novel question answering system for religious domain in Persian</b>, <i>Journal of Electrical Industries 8(2)</i>, 2017
+<b>Boreshban, Y</b>, Mirroshandel, S. A,<b> A novel question answering system for religious domain in Persian</b>, <i>Journal of Electrical Industries 8(2)</i>, 2017.
 
 <b>Boreshban, Y</b>, Mirbostani, S. M, Ghassem-Sani, G,  Mirroshandel, S. A, Ahmadi, S. F, Shojaee, G, Kamani, A, Monsef, T, <b>	QAttack: A Framework for Adversarial Attack on Question Answering systems</b> (In progress).
 
