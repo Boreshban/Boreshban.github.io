@@ -3,6 +3,7 @@ title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
+---
 
 ======
 * <b>Lecturer,</b> Compiler Design course, CE Faculty, Sharif University of Technology, Fall 2021
