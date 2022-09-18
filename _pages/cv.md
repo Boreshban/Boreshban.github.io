@@ -10,12 +10,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in CE - Artificial Intelligencee,<b> Sharif University of Technology </b>, Tehran, Iran, 2018-present
-* M.S. in CE - Software, <b> Guilan university </b>, Rasht, Iran, 2013-2016
-* B.S. in CE - Software, <b> Shahid Rajaee Teacher Training University </b>,Tehran, Iran, 2009-2013
+* <b>Ph.D in CE - Artificial Intelligencee, Sharif University of Technology </b>, Tehran, Iran, 2018-present
+   *  GPA: 17.58/20
+   *  Thesis Title: Improving Robustness of Question Answering Systems using Deep Neural Networks
+   *  Supervisor: Dr. Gholamreza Ghassem-Sani
+   *  Adviser: Dr. Seyed Abolghasem Mirroshande
+   
+* <b>M.S. in CE - Software, Guilan university </b>, Rasht, Iran, 2013-2016
+   *  GPA: 19.71/20 
+   *  <b> Ranked first among all entire university computer engineering students.</b>
+   *  Thesis Title: Providing a Question Answering System for Natural Language
+   *  Supervisor: Dr. Seyed Abolghasem Mirroshandel
+* <b>B.S. in CE - Software, Shahid Rajaee Teacher Training University </b>,Tehran, Iran, 2009-2013
+  *  GPA: 17.90/20 
+  * <b> Ranked fourth among all entire university computer engineering students.</b> 
+  * Thesis Title: Design and Implementation of the School Portal	
+  * Supervisor: Dr. Negin Daneshpour
 
-HONORS AND AWARDS
-======
+<h2>HONORS AND AWARDS </h2>
+
 * Awarded full scholarship from <b> Sharif University of Technology (SUT) </b> in computer engineering.
 * Ph.D. Admission from <b> Sharif University of Technology (SUT) </b>, Tehran,Iran, 2018.
 * Ph.D. Admission from <b> Iran University of Science and Technology (IUST) </b>,, Tehran,Iran, 2018.
