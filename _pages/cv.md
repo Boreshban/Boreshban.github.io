@@ -8,8 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
+
 
 * <b>Ph.D in CE - Artificial Intelligencee, Sharif University of Technology </b>, Tehran, Iran, 2018-present
    *  GPA: 17.58/20
@@ -30,8 +30,8 @@ Education
   
   
   
-Research Interests 
-======
+# Research Interests 
+
 
 
 
@@ -46,8 +46,8 @@ Research Interests
 
 
 
-HONORS AND AWARDS
-======
+# HONORS AND AWARDS
+
 
 
 * Awarded full scholarship from <b> Sharif University of Technology (SUT) </b> in computer engineering.
