@@ -1,14 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
 
-Teaching experience
 ======
 * <b>Lecturer,</b> Compiler Design course, CE Faculty, Sharif University of Technology, Fall 2021
 * <b> Lecturer,</b> Artificial Intelligence course, Engineering Department, Guilan University, Fall 2021 
