@@ -29,6 +29,7 @@ Education
   * Supervisor: Dr. Negin Daneshpour
   
   
+  
 Research Interests 
 ======
 
@@ -41,6 +42,7 @@ Research Interests
 * Information Retrieval
 
 * Image Processing 
+
 
 
 
