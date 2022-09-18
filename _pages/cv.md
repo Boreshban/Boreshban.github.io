@@ -8,8 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-
-<h2>Education </h2>
+Education
+======
 
 * <b>Ph.D in CE - Artificial Intelligencee, Sharif University of Technology </b>, Tehran, Iran, 2018-present
    *  GPA: 17.58/20
@@ -28,9 +28,11 @@ redirect_from:
   * Thesis Title: Design and Implementation of the School Portal	
   * Supervisor: Dr. Negin Daneshpour
   
+  
+Research Interests 
+======
 
 
-<h2>Research Interests </h2>
 
 * Machine learning and Deep learning
 
@@ -42,8 +44,9 @@ redirect_from:
 
 
 
+HONORS AND AWARDS
+======
 
-<h2>HONORS AND AWARDS </h2>
 
 * Awarded full scholarship from <b> Sharif University of Technology (SUT) </b> in computer engineering.
 * Ph.D. Admission from <b> Sharif University of Technology (SUT) </b>, Tehran,Iran, 2018.
