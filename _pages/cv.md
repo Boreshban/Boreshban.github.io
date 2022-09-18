@@ -26,7 +26,21 @@ Education
   * <b> Ranked fourth among all entire university computer engineering students.</b> 
   * Thesis Title: Design and Implementation of the School Portal	
   * Supervisor: Dr. Negin Daneshpour
-  * 
+  
+
+
+<h2>Research Interests </h2>
+
+* Machine learning and Deep learning
+
+* Natural Language Processing
+
+* Information Retrieval
+
+* Image Processing 
+
+
+
 
 <h2>HONORS AND AWARDS </h2>
 
