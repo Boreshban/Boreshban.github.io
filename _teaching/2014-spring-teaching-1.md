@@ -12,9 +12,9 @@ redirect_from:
 * <b> Lecturer,</b> Natural Language processing course, Engineering Department, Guilan University, Spring 2021
 * <b>Lecturer,</b> Artificial Intelligence course, Engineering Department, Guilan University, Fall 2020
 * <b>Lecturer,</b> Artificial Intelligence, Engineering Department, Guilan University, Spring 2017
-* <b>Lecturer,</b> Artificial Intelligence, Engineering Department, Guilan University, Fall 2016
 * <b>Lecturer,</b> Compiler Design course, Tehran university, Fouman Faculty of Engineering, Spring 2017
 * <b>Lecturer,</b> Presentation of Scientific and Technical course, Tehran University, Fouman Faculty of Engineering, Spring 2017
+* <b>Lecturer,</b> Artificial Intelligence, Engineering Department, Guilan University, Fall 2016
 * <b>Lecturer,</b> Artificial Intelligence, Tehran University, Fouman Faculty of Engineering, Fall 2016
 * <b>Teaching Assistant,</b> Artificial Intelligence Course, Dr.  Gholamreza Ghassem-Sani, CE Faculty, Sharif University of Technology, Spring 2022}
 * <b>Teaching Assistant,</b> Deep Learning course, Dr.  Hamid Beigy, CE Faculty, Sharif University of Technology, Spring 2021
