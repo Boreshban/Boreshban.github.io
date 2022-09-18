@@ -34,7 +34,6 @@ redirect_from:
 
 
 
-
 * Machine learning and Deep learning
 
 * Natural Language Processing
@@ -42,7 +41,6 @@ redirect_from:
 * Information Retrieval
 
 * Image Processing 
-
 
 
 
