@@ -1,8 +1,10 @@
 ---
+layout: archive
 title: "Teaching experience"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/
+author_profile: true
+redirect_from:
+  - /teaching
 ---
 
 ======
