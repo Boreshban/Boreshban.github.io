@@ -26,12 +26,13 @@ Education
   * <b> Ranked fourth among all entire university computer engineering students.</b> 
   * Thesis Title: Design and Implementation of the School Portal	
   * Supervisor: Dr. Negin Daneshpour
+  * 
 
 <h2>HONORS AND AWARDS </h2>
 
 * Awarded full scholarship from <b> Sharif University of Technology (SUT) </b> in computer engineering.
 * Ph.D. Admission from <b> Sharif University of Technology (SUT) </b>, Tehran,Iran, 2018.
-* Ph.D. Admission from <b> Iran University of Science and Technology (IUST) </b>,, Tehran,Iran, 2018.
+* Ph.D. Admission from <b> Iran University of Science and Technology (IUST) </b>, Tehran,Iran, 2018.
 * <b> First Rank Award </b> for achieving the best GPA among all university Computer Engineering students, 2016.
 * Awarded full scholarship from <b> Guilan University </b> in computer engineering.
 * <b> fourth Rank Award </b> for achieving the best GPA among all university Computer Engineering students, 2013.
