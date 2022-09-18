@@ -8,8 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
+<h2>Education </h2>
+
 * <b>Ph.D in CE - Artificial Intelligencee, Sharif University of Technology </b>, Tehran, Iran, 2018-present
    *  GPA: 17.58/20
    *  Thesis Title: Improving Robustness of Question Answering Systems using Deep Neural Networks
