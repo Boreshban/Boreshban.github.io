@@ -7,7 +7,6 @@ redirect_from:
   - /teaching
 ---
 
-======
 * <b>Lecturer,</b> Compiler Design course, CE Faculty, Sharif University of Technology, Fall 2021
 * <b> Lecturer,</b> Artificial Intelligence course, Engineering Department, Guilan University, Fall 2021 
 * <b> Lecturer,</b> Natural Language processing course, Engineering Department, Guilan University, Spring 2021
