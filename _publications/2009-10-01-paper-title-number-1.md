@@ -4,8 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
+- /Publications
 ---
-# Publications: 
+ 
 
 <b>Boreshban, Y</b>, Mirbostani, S. M, Ghassem-Sani, G,  Mirroshandel, S. A, Amiriparian, S,<b> Improving Question Answering Performance Using Knowledge Distillation and Active Learning</b>, <i>Engineering Applications of Artificial Intelligence</i>, 2023. 
 
@@ -19,7 +20,7 @@ Mirbostani, S. M, <b>Boreshban, Y</b>,  Khalifa, S,  Mirroshandel, S. A, Rambow,
 
 
 
-# Ongoing projects:
+# Ongoing projects
 
 Neshaei, S. A, <b>Boreshban, Y</b>, Ghassem-Sani, G,  Mirroshandel, S. A, <b>	The Impact of Quantization on the Robustness of Transformer-based Text Classifiers</b>, <i>Under revision</i>.
 
