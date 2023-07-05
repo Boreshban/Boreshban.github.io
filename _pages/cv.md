@@ -58,7 +58,7 @@ redirect_from:
 * <b> Ranked top 3% </b> among nearly 300,000 participants in the National University Entrance Exam of 2009.
 
 
-You can find my CV [here](http://Boreshban.github.io/files/BoreshbanCV.pdf).
+You can find my CV [here](http://Boreshban.github.io/files/BoreshbanCV_v2.pdf).
   
   
 
