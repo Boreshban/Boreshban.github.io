@@ -1,4 +1,11 @@
-
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /publications
+---
 # Publications: 
 
 <b>Boreshban, Y</b>, Mirbostani, S. M, Ghassem-Sani, G,  Mirroshandel, S. A, Amiriparian, S,<b> Improving Question Answering Performance Using Knowledge Distillation and Active Learning</b>, <i>Under review, pre-print version on Arxiv</i>, 2021. 
