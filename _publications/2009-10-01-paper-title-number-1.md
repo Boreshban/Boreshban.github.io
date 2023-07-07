@@ -22,9 +22,6 @@ Mirbostani, S. M, <b>Boreshban, Y</b>,  Khalifa, S,  Mirroshandel, S. A, Rambow,
 
 # Ongoing projects
 
-Neshaei, S. A, <b>Boreshban, Y</b>, Ghassem-Sani, G,  Mirroshandel, S. A, <b>	The Impact of Quantization on the Robustness of Transformer-based Text Classifiers</b>, <i>Under revision</i>.
-
-Mirbostani, S. M, <b>Boreshban, Y</b>, Mirroshandel, S. A, Rambow, O,  <b>	 Morphophonological Processing Using a Novel Meta Active Learning Algorithm</b>, <i>Under revision</i>.
 
 Nabipour, A, Shams, M, <b>Boreshban, Y</b>, Mirroshandel, S. A, <b>	Knowledge Distillation for Sperm Anomaly Detection in Limited Data Settings</b>, <i>Under revision</i>.
 
