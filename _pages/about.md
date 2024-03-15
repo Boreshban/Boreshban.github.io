@@ -11,5 +11,5 @@ I finished my Ph.D. program in the NLP Lab of the [Department of Computer Engine
 
 I'm interested in the interplay between text and image, such as Visual question-answering systems and caption generation. I'm also interested in applying machine learning methods to medical data.
 
-My research interests include machine learning,  Deep Learning, and natural language processing. You can find more information at [Publication](https://boreshban.github.io/publications/) and [CV]https://github.com/Boreshban/Boreshban.github.io/blob/master/Y_boreshbanCV.pdf).
+My research interests include machine learning,  Deep Learning, and natural language processing. You can find more information at [Publication](https://boreshban.github.io/publications/) and [CV](https://boreshban.github.io/cv/).
 
