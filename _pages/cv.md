@@ -72,7 +72,7 @@ redirect_from:
 * Image Processing 
 
 
-You can find my detailed CV [here]((http://Boreshban.github.io/files/Y_boreshbanCV.pdf))
+You can find my detailed CV [here](http://Boreshban.github.io/files/Y_boreshbanCV.pdf).
 
 
 
