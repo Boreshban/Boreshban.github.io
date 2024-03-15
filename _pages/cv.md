@@ -74,7 +74,7 @@ redirect_from:
 
 
 
-You can find my detailed CV [here](https://github.com/Boreshban/Boreshban.github.io/blob/master/Y_boreshbanCV.pdf).
+You can find my detailed CV [here]((http://Boreshban.github.io/Y_boreshbanCV.pdf).
 
 
   
