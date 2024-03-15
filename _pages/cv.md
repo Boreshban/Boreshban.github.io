@@ -27,6 +27,30 @@ redirect_from:
   * <b> Ranked fourth among all entire university computer engineering students.</b> 
   * Thesis Title: Design and Implementation of the School Portal	
   * Supervisor: Dr. Negin Daneshpour
+ 
+# TECHNICAL EXPERIENCE
+
+
+* <b>Machine Learning Engineer, Sharif University of Technology </b>, Tehran, Iran, 2018 - 2023
+   *  performed research on improving robustness in the NLP, especially in question-answering(QA).
+   *  implemented the active learning approach to QA systems to reduce labeling costs.
+   *  analyzed the effects of the knowledge distillation method on the robustness of QA systems for reducing computational complexity.
+   *  Researched and developed an open-source framework for NLP models’ robustness analysis.
+   *  Investigated the effect of quantization on the robustness of Transformer-based NLP text classifiers.
+   *  Implemented various machine and deep learning methods such as SVM, Regression, Adaboost, random forest, k-means, CNN, RNN, LSTM, GRU, GAN, and Autoencoder on various datasets.
+   *  developed various image processing approaches based on the OpenCV library, such as Histogram equalization, deconvolution, inverse filtering, hough transform, smoothing, and style transfer.
+ 
+   
+* <b>M.S. in CE - Software, Guilan university </b>, Rasht, Iran, 2013-2016
+   *  GPA: 19.71/20 
+   *  <b> Ranked first among all entire university computer engineering students.</b>
+   *  Thesis Title: Providing a Question Answering System for Natural Language
+   *  Supervisor: Dr. Seyed Abolghasem Mirroshandel
+* <b>B.S. in CE - Software, Shahid Rajaee Teacher Training University </b>,Tehran, Iran, 2009-2013
+  *  GPA: 17.90/20 
+  * <b> Ranked fourth among all entire university computer engineering students.</b> 
+  * Thesis Title: Design and Implementation of the School Portal	
+  * Supervisor: Dr. Negin Daneshpour
   
   
   
