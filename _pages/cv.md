@@ -41,18 +41,21 @@ redirect_from:
    *  developed various image processing approaches based on the OpenCV library, such as Histogram equalization, deconvolution, inverse filtering, hough transform, smoothing, and style transfer.
  
    
-* <b>Machine Learning Engineer Guilan university </b>, Rasht, Iran, 2013-2016
+* <b>Machine Learning Engineer, Guilan university </b>, Rasht, Iran, 2013-2016
    *  Investigated and analyzed Knowledge Distillation for Sperm Anomaly Detection in Limited Data Settings without using abnormal sperm images.
    *  Investigated and analyzed meta-learning and meta-active learning approaches for Arabic Morphophonological Processing.
    *  Constructed a Persian QA dataset of 2,118 non-factoid and 2,051 factoid questions.
    *  Implemented a QA system based on the SVM model in the Persian domain.
    *  developed and analyzed Language Models in Spell Correction.
     
-* <b>B.S. in CE - Software, Shahid Rajaee Teacher Training University </b>,Tehran, Iran, 2009-2013
-  *  GPA: 17.90/20 
-  * <b> Ranked fourth among all entire university computer engineering students.</b> 
-  * Thesis Title: Design and Implementation of the School Portal	
-  * Supervisor: Dr. Negin Daneshpour
+* <b>Research Assistant- Telecommunication Research Center</b>,Tehran, Iran, 2021-2022
+  *  Investigated the artificial intelligence applications in agriculture, smart cities, and education.
+ 
+* <b>Research & Develop- EideBekreMobin Company</b>,Tehran, Iran, 2013-2014
+
+* <b>Web Programming, Internship- Tebyan Company</b>,Tehran, Iran, 2012-2013
+
+ 
  
   
   
