@@ -11,7 +11,7 @@ redirect_from:
 # Education
 
 
-* <b>Ph.D in CE - Artificial Intelligencee, Sharif University of Technology </b>, Tehran, Iran, 2018-present
+* <b>Ph.D in CE - Artificial Intelligencee, Sharif University of Technology </b>, Tehran, Iran, 2018-2023
    *  GPA: 17.58/20
    *  Thesis Title: Improving Robustness of Question Answering Systems using Deep Neural Networks
    *  Supervisor: Dr. Gholamreza Ghassem-Sani
